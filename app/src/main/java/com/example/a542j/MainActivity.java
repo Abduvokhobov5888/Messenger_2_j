@@ -36,15 +36,15 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Story> chats = new ArrayList<Story>();
 
         chats.add(new Story(R.drawable.plus, R.drawable.nissan, R.drawable.one, "Add to Story"));
-        chats.add(new Story(R.drawable.nissan, R.drawable.gtr, R.drawable.one, "Jonny Deep"));
+        chats.add(new Story(R.drawable.nissan, R.drawable.nissan, R.drawable.one, "Jonny Deep"));
         chats.add(new Story(R.drawable.volkswagen, R.drawable.mbw, R.drawable.one, "Maykel Jacken"));
         chats.add(new Story(R.drawable.mbw, R.drawable.nissan, R.drawable.one,"Leo Messi"));
         chats.add(new Story(R.drawable.mercedes, R.drawable.nissan, R.drawable.one, "Bek Bekbola"));
-        chats.add(new Story(R.drawable.nissan, R.drawable.gtr, R.drawable.one, "Maykel Jacken"));
+        chats.add(new Story(R.drawable.nissan, R.drawable.nissan, R.drawable.one, "Maykel Jacken"));
         chats.add(new Story(R.drawable.volkswagen, R.drawable.nissan, R.drawable.one, "Bek Bekbola"));
         chats.add(new Story(R.drawable.mbw, R.drawable.mbw, R.drawable.one, "Leo Messi"));
         chats.add(new Story(R.drawable.mercedes, R.drawable.nissan, R.drawable.one, "Cristiano Ronaldo"));
-        chats.add(new Story(R.drawable.nissan, R.drawable.gtr, R.drawable.one,"Real Madrid"));
+        chats.add(new Story(R.drawable.nissan, R.drawable.nissan, R.drawable.one,"Real Madrid"));
         chats.add(new Story(R.drawable.volkswagen,R.drawable.nissan, R.drawable.one, "Kross"));
         chats.add(new Story(R.drawable.mbw,R.drawable.mbw, R.drawable.one, "Modrich"));
 
